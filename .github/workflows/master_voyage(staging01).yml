@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'voyage'
           slot-name: 'staging01'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_94C1DE1F0ABD4DE09D79B599FFDF6AB3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_630B122426C241ABB71A4D56B18CA743 }}
